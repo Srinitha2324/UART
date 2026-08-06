@@ -1,0 +1,22 @@
+UART Transmission Example
+
+Input Data : 10100101
+
+Frame Sent
+
+Start Bit : 0
+
+Data Bits (LSB First)
+
+1
+0
+1
+0
+0
+1
+0
+1
+
+Stop Bit : 1
+
+Transmission Completed Successfully
